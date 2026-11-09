@@ -11,9 +11,3 @@ else:
     Age = input ("How old are you? ")
 if Age.isdigit() and int(Age) >= 18:
     print (f"Welcome to python!")
-
-# name = variable
-# input = function
-# print = function
-# f = format string
-# if = means "if this condition is true, then do this"
